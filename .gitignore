@@ -2,6 +2,8 @@ DS_store
 DS.Store
 DS
 DS_Store
+config.js
+config
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
