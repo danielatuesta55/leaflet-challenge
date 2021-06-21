@@ -150,7 +150,8 @@ legend.onAdd = function () {
 legend.addTo(myMap);
 
 // Conditionally color the circle markers
-function circleColor(depth) {
+// Changin depth for
+function circleColor(depth) { 
     if (depth > 25) {
         color = "#b32d2e";
     } else if (depth > 12.5) {
